@@ -139,6 +139,19 @@ All panels are crystal-clear with professional medical-grade visualization.
 
 ---
 
+## 📸 System Screenshots
+
+<img width="1140" height="856" alt="Screenshot 2025-12-24 142158" src="https://github.com/user-attachments/assets/4b908209-a94f-4a4f-acee-3aa5d5fe0851" />
+ 
+
+### 🧠 6-Panel Inference Output
+<img width="1722" height="915" alt="Screenshot 2025-12-26 112340" src="https://github.com/user-attachments/assets/dbe3714b-0953-4476-9336-a0cfd15684db" />
+
+
+<img width="1399" height="861" alt="Screenshot 2025-12-20 123432" src="https://github.com/user-attachments/assets/02c9c063-76b4-4d32-a14e-bfeb8a0623a4" />
+
+---
+
 ## 🔧 Technical Specifications
 
 ### Server
@@ -376,3 +389,4 @@ Then open: **http://localhost:5000**
 **🏥 Professional MRI Analysis System - Crystal-Clear & Ready**
 
 *Delivering hospital-grade medical imaging visualization with advanced AI analysis.*
+
